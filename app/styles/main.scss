@@ -5,6 +5,11 @@ body {
     font-family: 'Helvetica Neue', Arial, Tahoma, sans-serif;
 }
 
+.main-navigation {
+    position: fixed;
+    top: 0;
+}
+
 .hero-unit {
     text-align: center;
     margin: 50px auto 0 auto;
